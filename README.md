@@ -16,7 +16,7 @@ Part of the Human Clarity Institute’s **AI–Human Experience Data Series**, d
 ## Repository / Access Links
 
 **GitHub:** https://github.com/humanclarityinstitute/HCI-AIMediaOnlineAuthenticity-2025   
-**Zenodo:** https://doi.org/10.5281/zenodo.1774452  
+**Zenodo:** https://doi.org/10.5281/zenodo.17744452  
 **Figshare:** https://doi.org/10.6084/m9.figshare.30736247  
 
 This dataset is archived in **GitHub**, **Zenodo**, and **Figshare** for long-term preservation.
@@ -26,7 +26,7 @@ This dataset is archived in **GitHub**, **Zenodo**, and **Figshare** for long-te
 # 1. Citation
 
 **APA:**  
-Human Clarity Institute. (2025). *AI Media & Online Authenticity 2025* [Data set]. HCI. https://doi.org/10.5281/zenodo.1774452
+Human Clarity Institute. (2025). *AI Media & Online Authenticity 2025* [Data set]. HCI. https://doi.org/10.5281/zenodo.17744452
 
 **BibTeX**  
 ```bibtex
@@ -35,7 +35,7 @@ Human Clarity Institute. (2025). *AI Media & Online Authenticity 2025* [Data set
   title     = {AI Media \& Online Authenticity 2025},
   year      = {2025},
   publisher = {Human Clarity Institute},
-  doi       = {10.5281/zenodo.1774452},
+  doi       = {10.5281/zenodo.17744452},
   url       = {https://humanclarityinstitute.com/datasets/ai-media-online-authenticity-2025-dataset/},
   license   = {CC-BY-4.0}
 }
@@ -195,5 +195,6 @@ Attribution text:
 Email: info@humanclarityinstitute.com  
 Website: https://humanclarityinstitute.com/  
 Dashboard Link: https://humanclarityinstitute.com/data-dashboard/
+
 
 
